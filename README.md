@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hii!!  I'm Cheryl 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Hii!!  I'm Cheryl </div>  
   
 
 - 🔭 I’m currently studying Bachelor Computer Science (Data Engineering) at University Teknologi Malaysia  
