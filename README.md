@@ -62,5 +62,6 @@ Industry Talk and Industry Visit:
 - Assignment 2 (Format: Video)
 - Assignment 3 (Format: Report)
 - Assignment 4 (Format: Technical Paper IEEE Format)
+<br/>
 PC Assemble (Lab)
 Design Thinking (Low Fidelity Prototype) 
