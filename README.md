@@ -65,4 +65,4 @@ Industry Talk and Industry Visit:
 
 PC Assemble (Lab)
 
-Design Thinking (Low Fidelity Prototype) 
+<a herf=https://github.com/users/Yatib/projects/18>Design Thinking (Low Fidelity Prototype) 
