@@ -47,10 +47,6 @@
 
 <br/>  
 
-## Assignment
-###- Industry Talk and Industry Visit:
-
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cheryl322&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -59,4 +55,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheryl322&hide_border=true&layout=compact" align="center" /></div> 
 
   
-
+## Assignment
+  - Industry Talk and Industry Visit:
+    o Assignment 1 (Format: Poster)
+    o Assignment 2 (Format: Video)
+    o Assignment 3 (Format: Report)
+    o Assignment 4 (Format: Technical Paper IEEE Format)
