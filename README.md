@@ -59,9 +59,9 @@
 Industry Talk and Industry Visit:
 - <a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf">Assignment 1 (Format: Poster)
 
-- Assignment 2 (Format: Video)
+- Assignment 2 (Format: Newsletter)
 - Assignment 3 (Format: Report)
-- Assignment 4 (Format: Technical Paper IEEE Format)
+- Assignment 4 (Format: Video)
 
 PC Assemble (Lab)
 
