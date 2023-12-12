@@ -56,8 +56,8 @@
 
   
 ## Assignment
-  - Industry Talk and Industry Visit:
-    o Assignment 1 (Format: Poster)
-    o Assignment 2 (Format: Video)
-    o Assignment 3 (Format: Report)
-    o Assignment 4 (Format: Technical Paper IEEE Format)
+   Industry Talk and Industry Visit:
+    - Assignment 1 (Format: Poster)
+    - Assignment 2 (Format: Video)
+    - Assignment 3 (Format: Report)
+    - Assignment 4 (Format: Technical Paper IEEE Format)
