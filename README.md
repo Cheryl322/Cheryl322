@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hii!!  I'm Cheryl </div>  
+### <div align="center">Hii!!  I'm Cheryl Cheong Kah Voon </div>  
   
 
 - 🔭 I’m currently studying Bachelor Computer Science (Data Engineering) at University Teknologi Malaysia  
