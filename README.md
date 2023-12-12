@@ -64,5 +64,5 @@ Industry Talk and Industry Visit:
 - Assignment 4 (Format: Technical Paper IEEE Format)
 
 PC Assemble (Lab)
-<br/>
+
 Design Thinking (Low Fidelity Prototype) 
