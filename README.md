@@ -57,8 +57,8 @@
   
 ## Assignment
 Industry Talk and Industry Visit:
-- Assignment 1 (Format: Poster)
- <a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf"_blank"> 
+- <a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf"_blank">Assignment 1 (Format: Poster)
+
 - Assignment 2 (Format: Video)
 - Assignment 3 (Format: Report)
 - Assignment 4 (Format: Technical Paper IEEE Format)
