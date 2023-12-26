@@ -55,4 +55,17 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheryl322&hide_border=true&layout=compact" align="center" /></div> 
 
   
-## <a href="https://github.com/Cheryl322/Cheryl322/blob/main/l.html">TIS
+## Assignment<br>
+Industry Talk and Industry Visit:
+<br>
+-<a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf">Assignment 1 (Format: Poster)
+<br>
+-Assignment 2 (Format: Poster)
+<br>
+-<a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS%20Newsletter%20Group%203.pdf">Assignment 3 (Format: Newsletter)
+<br>
+- Assignment 4 (Format: Video)
+<br>
+PC Assemble (Lab)
+<br>
+<a href="https://github.com/users/Yatib/projects/18">Design Thinking (Low Fidelity Prototype) 
