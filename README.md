@@ -1,5 +1,4 @@
 <html>
-<head><title>Main Page</title></head>
 
 <div align="center">
 <img src="https://github.com/Cheryl322/Cheryl322/blob/main/Hello%20Hi%20GIF%20-%20Hello%20Hi%20Cute%20-%20Discover%20%26%20Share%20GIFs.gif" align="center" style="width: 100%" />
@@ -61,6 +60,4 @@
 ## Technology and Information System
 <br>
 <a herf="https://github.com/Cheryl322/Cheryl322/blob/main/l.html"
-## Programming Technique 1
-  </body>
-  </html>
+</html>
