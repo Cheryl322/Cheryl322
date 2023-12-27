@@ -1,10 +1,9 @@
-<html>
 
 <div align="center">
 <img src="https://github.com/Cheryl322/Cheryl322/blob/main/Hello%20Hi%20GIF%20-%20Hello%20Hi%20Cute%20-%20Discover%20%26%20Share%20GIFs.gif" align="center" style="width: 100%" />
 </div>  
   
-<script></script>
+
 ### <div align="center">Hii!!  I'm Cheryl Cheong Kah Voon </div>  
   
 
@@ -55,11 +54,11 @@
 <br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheryl322&hide_border=true&layout=compact" align="center" /></div> 
-</script>
+
   
 ## Technology and Information System
 <br>
-## Assignment<br>
+Assignment<br>
 Industry Talk and Industry Visit:
 <br>
 -<a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf">Assignment 1 (Format: Poster)</a>
