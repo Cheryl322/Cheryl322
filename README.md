@@ -59,5 +59,5 @@
   
 ## Technology and Information System
 <br>
-<a herf="https://cheryl322.github.io/Cheryl322/l.html">
+<a herf="https://cheryl322.github.io/Cheryl322.github.io/l.html">
 </html>
