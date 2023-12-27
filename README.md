@@ -1,3 +1,6 @@
+<html>
+<head><title>Main Page</title></head>
+
 <div align="center">
 <img src="https://github.com/Cheryl322/Cheryl322/blob/main/Hello%20Hi%20GIF%20-%20Hello%20Hi%20Cute%20-%20Discover%20%26%20Share%20GIFs.gif" align="center" style="width: 100%" />
 </div>  
@@ -55,17 +58,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheryl322&hide_border=true&layout=compact" align="center" /></div> 
 
   
-## Assignment<br>
-Industry Talk and Industry Visit:
+## Technology and Information System
 <br>
--<a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS.pdf">Assignment 1 (Format: Poster)
-<br>
--Assignment 2 (Format: Poster)
-<br>
--<a href="https://github.com/Cheryl322/Cheryl322/blob/main/TIS%20Newsletter%20Group%203.pdf">Assignment 3 (Format: Newsletter)
-<br>
-- Assignment 4 (Format: Video)
-<br>
-PC Assemble (Lab)
-<br>
-<a href="https://github.com/users/Yatib/projects/18">Design Thinking (Low Fidelity Prototype) 
+<a herf="https://github.com/Cheryl322/Cheryl322/blob/main/l.html"
+## Programming Technique 1
+  </body>
+  </html>
