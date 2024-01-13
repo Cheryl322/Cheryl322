@@ -17,10 +17,12 @@
 ## Education
 ### Secondary School (SMK Taman Pelangi Indah) 
 SPM: 2A+, 2A, 4A-, 2B+ 
+<br/>
 CEFR: B2
 
 ### Pre University (Malacca Matriculation College) 
-CGPA: 4.0
+CGPA: 4.0 
+<br>
 Muet: 3.5
 
 ## Co_curiculum
@@ -53,9 +55,9 @@ Muet: 3.5
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## Language
-Malay   ⭐⭐⭐
-English ⭐⭐⭐⭐
-Chinese ⭐⭐⭐⭐⭐
+Malay   ⭐⭐⭐<br>
+English ⭐⭐⭐⭐<br>
+Chinese ⭐⭐⭐⭐⭐<br>
 
 
 ## Github Stats  
