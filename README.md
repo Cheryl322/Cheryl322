@@ -25,7 +25,6 @@ Muet: 3.5
 
 ## Co_curiculum
 ### Secondary School (SMK Taman Pelangi Indah) 
-### 2021
 - Vice Chairman of librarian
 - Comittee Members of St.John Ambulance Club
 - Honorable mention in Kangaroo Math
