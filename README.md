@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying Bachelor of Computer Science (Data Engineering) at University Teknologi Malaysia  
 - 🌱 I’m currently learning C++
--  I'm a 150cm cute girl
+-  🐵🐵I'm a 150cm cute girl
   
 
 <br/>  
