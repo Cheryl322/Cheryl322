@@ -28,24 +28,23 @@ Muet: 3.5
 ### 2021
 - Vice Chairman of librarian
 - Comittee Members of St.John Ambulance Club
-- 
+- Honorable mention in Kangaroo Math
+- Participation in Physics Online Quiz Competition(state-level)
+  
 ### Pre University (Malacca Matriculation College)
-### 2023
+
 - Committee Members of Chinese New Year Celebration
 - Committee Members of Chinese New Year Carnival
 - Vice Chairman of Photo Exibition
 - Chairman of Tik Tok Competition
-
-### 2022
 - Treasure of Photography club
 - Secretary of video editing competition
-
+- Malaysia National Chemistry Quiz 2022
+- Blood Donation Volunteer
+- KASKOMM Volunteer
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
-
-
- 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
