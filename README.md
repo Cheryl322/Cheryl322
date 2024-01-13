@@ -15,8 +15,13 @@
 <br/>  
 
 ## Education
-### SPM
-Result:
+### Secondary School (SMK Taman Pelangi Indah) 
+SPM: 2A+, 2A, 4A-, 2B+ 
+CEFR: B2
+
+### Pre University (Malacca Matriculation College) 
+CGPA: 4.0
+Muet: 3.5
 
 
 
