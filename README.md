@@ -41,6 +41,8 @@ Muet: 3.5
 - Malaysia National Chemistry Quiz 2022
 - Blood Donation Volunteer
 - KASKOMM Volunteer
+<br/>
+
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
@@ -49,7 +51,7 @@ Muet: 3.5
 </div>
 
 
-<br/>  
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cheryl322&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
