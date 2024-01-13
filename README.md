@@ -58,7 +58,8 @@ Muet: 3.5
    <img scr=https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white> 
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white >
 <br>
-## Language
+  
+## Language 
 Malay   ⭐⭐⭐<br>
 English ⭐⭐⭐⭐<br>
 Chinese ⭐⭐⭐⭐⭐<br>
