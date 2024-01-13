@@ -23,7 +23,22 @@ CEFR: B2
 CGPA: 4.0
 Muet: 3.5
 
+## Co_curiculum
+### Secondary School (SMK Taman Pelangi Indah) 
+### 2021
+- Vice Chairman of librarian
+- Comittee Members of St.John Ambulance Club
+- 
+### Pre University (Malacca Matriculation College)
+### 2023
+- Committee Members of Chinese New Year Celebration
+- Committee Members of Chinese New Year Carnival
+- Vice Chairman of Photo Exibition
+- Chairman of Tik Tok Competition
 
+### 2022
+- Treasure of Photography club
+- Secretary of video editing competition
 
 
 ## My Skill Set  
