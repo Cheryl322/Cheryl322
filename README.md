@@ -12,7 +12,8 @@
 -  🐵🐵I'm a 150cm cute girl
 
 ## E-portfolio
-<a herf="https://cheryl322.github.io/">Here</a>
+<a href="https://Cheryl322.github.io">Here
+</a> 
 
 <br/>  
 
